@@ -1,0 +1,138 @@
+{
+    "iphone": [
+        "iphone",
+        "cp",
+        "wcp",
+        "carplay",
+        "apple"
+    ],
+    "android": [
+        "android",
+        "waa",
+        "aa"
+    ],
+    "sign_out": [
+        "sign out",
+        "sign-out",
+        "signout",
+        "signed out",
+        "no google user is logged  in",
+        "no user is signed in"
+    ],
+    "sign_in": [
+        "signed in",
+        "sign in",
+        "signedin",
+        "sign-in",
+        "signed-in",
+        "signin",
+        "signedin",
+        "google user is logged in",
+        "log into the google account"
+    ],
+    "offline": [
+        "offline",
+        "no internet connection"
+    ],
+    "guest": [
+        "guest"
+    ],
+    "non_guest": [
+        "non-guest"
+    ],
+    "others": [
+        "secondary",
+        "user 1",
+        "user 2",
+        "user1",
+        "user2",
+        "new google user",
+        "new user"
+    ],
+    "primary": [
+        "primary"
+    ],
+    "push_button": [
+        "short press  vr  key",
+        "long press  vr  key",
+        "long press",
+        "short press",
+        "press  end  key",
+        "press PTT button",
+        "ptt",
+        "vr"
+    ],
+    "cluster": [
+        "cluster",
+        "clustor",
+        "swc",
+        "ipc"
+    ],
+    "speed_limit": [
+        "speed limit"
+    ],
+    "expection": [
+        "short press power key",
+        "long press power key",
+        "long press power button",
+        "short press power button",
+        "dlm",
+        "short press selection buttion on the rotary wheel"
+    ],
+    "ac": [
+        "a/c",
+        "temperature",
+        "climate",
+        "defroster",
+        "hvac"
+    ],
+    "ac_split": [
+        "air",
+        "fan"
+    ],
+    "call_sms": [
+        "sms",
+        "message",
+        "text",
+        "call",
+        "dial"
+    ],
+    "fuel_sim": [
+        "how far can i drive",
+        "fuel",
+        "remaining range",
+        "gas level"
+    ],
+    "did": [
+        "did",
+        "rid",
+        "msg="
+    ],
+    "user_build":[
+        "testapp",
+        "42be",
+        "app-release apk",
+        "diagnostic"
+    ],
+    "13_inch":[
+        "13\"",
+        "13 inch"
+    ],
+    "trailer":[
+        "trailer"
+    ],
+    "usb_update":[
+        "usb update",
+        "usbupdate"
+    ],
+    "tja":[
+        "tja"
+    ],
+    "Signal":[
+        "signal",
+        "signals"
+    ],
+    "alexa":[
+        "alexa"
+    ]
+}
